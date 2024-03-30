@@ -1,7 +1,0 @@
-getData(), get rid of extra spaces
-showGrid()
-oneCycle() with countNeighbors() helper
-countAlive() to check solution
-
-
-// hints: oneCycle will require two lists (now and next)

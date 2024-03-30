@@ -1,6 +1,0 @@
-getData() as String[][]
-showData()
-change getData() to Integer[][]
-basic algorithm in main
-performWave()
-checkNESW()
