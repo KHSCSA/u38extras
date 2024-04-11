@@ -12,7 +12,7 @@ public class WaveFrontFunctions {
         try {
             Scanner input = new Scanner(new File(filename));
             
-            }
+            
             input.close();
         }
         catch(Exception e){
